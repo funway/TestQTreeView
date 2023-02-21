@@ -1,0 +1,1 @@
+# Tests how to show GIF images running in QTreeView
